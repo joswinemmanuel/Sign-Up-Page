@@ -1,0 +1,41 @@
+body {
+    background: black;
+    font-family: 'DM Sans', sans-serif;
+    text-align: center;
+    border: 40px solid rgb(81, 255, 58);
+    color: white;
+    border-top: 0px;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(81, 255, 58);;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(81, 255, 58);
+}
+
+p {
+    padding-top: 3%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+form {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+#sub {
+    background-color: rgb(81, 255, 58);
+    height: 80px;
+    width: 150px;
+    margin: 4px;
+    margin-top: 12px;
+    font-size: 1em;
+    border-radius: 25px;
+    font-weight: bolder;
+}
